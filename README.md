@@ -9,7 +9,6 @@ This assignment is intented to help you set up your development environment for 
 
 ```
 import './App.css';
-
 function App() {
   return (
     <div className="App">
@@ -22,7 +21,6 @@ function App() {
     </div>
   );
 }
-
 export default App;
 ```
 
@@ -34,10 +32,13 @@ export default App;
 Deploy the application using one of the methods covered in class: Github Pages, Render, or AWS. If you prefer to use a different service, explain your choice and process.
 
 ## Submitting
-Edit this file (README.md) and complete the following:
 
-- URL to live application: 
+- URL to live application: https://lim-che.github.io/homework2/
+- 
 - How did you deploy it?
+- gh-pages
+- 
 - What code editor are you using?
+- vs code
 
 That is all!
